@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1771801776362,
+  "timestamp": 1771802988241,
   "index": "/MyCoins-Demo/index.html",
   "assetGroups": [
     {
@@ -26,14 +26,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/MyCoins-Demo/icons/icon-128x128.png",
-        "/MyCoins-Demo/icons/icon-144x144.png",
-        "/MyCoins-Demo/icons/icon-152x152.png",
         "/MyCoins-Demo/icons/icon-192x192.png",
-        "/MyCoins-Demo/icons/icon-384x384.png",
-        "/MyCoins-Demo/icons/icon-512x512.png",
-        "/MyCoins-Demo/icons/icon-72x72.png",
-        "/MyCoins-Demo/icons/icon-96x96.png"
+        "/MyCoins-Demo/icons/icon-512x512.png"
       ],
       "patterns": []
     }
@@ -41,14 +35,8 @@
   "dataGroups": [],
   "hashTable": {
     "/MyCoins-Demo/favicon.ico": "193fc927a6b155b2e973388eda3ce363f0aa1e69",
-    "/MyCoins-Demo/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/MyCoins-Demo/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/MyCoins-Demo/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/MyCoins-Demo/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/MyCoins-Demo/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/MyCoins-Demo/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/MyCoins-Demo/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/MyCoins-Demo/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/MyCoins-Demo/icons/icon-192x192.png": "92b04cacb97a4bd8e8fa5412f5ecb7c211d92b35",
+    "/MyCoins-Demo/icons/icon-512x512.png": "24c17b6e7c5bfaa7321354738afdacb06cacf775",
     "/MyCoins-Demo/index.html": "d393120b5860af871f44b1f82f1243cdbb9a6385",
     "/MyCoins-Demo/main.js": "d1834a892758d19c0f259b505c8853c47a3783ef",
     "/MyCoins-Demo/styles.css": "140d278df868bed122aad522ecebd1ea16c84598"
