@@ -1,6 +1,6 @@
 {
-  "name": "ui",
-  "short_name": "ui",
+  "name": "MyCoins Demo",
+  "short_name": "MyCoins",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
