@@ -56,7 +56,6 @@ ${t.map((r,i)=>`${i+1}) ${r.toString()}`).join(`
                   if ('serviceWorker' in navigator) {
                     window.addEventListener('load', () => {
                       navigator.serviceWorker.register('ngsw-worker.js')
-                        .then(reg => console.log('SW Registered'))
                         .catch(err => console.log('SW Error', err));
                     });
                   }
