@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1771977360713,
+  "timestamp": 1771978779630,
   "index": "/MyCoins-Demo/index.html",
   "assetGroups": [
     {
@@ -36,8 +36,8 @@
     "/MyCoins-Demo/favicon.ico": "10ac4c5e61b42d6d0972946a9bc32160248c8928",
     "/MyCoins-Demo/icons/icon-192x192.png": "ac4746547fd56247efb874647400794de9cb084b",
     "/MyCoins-Demo/index.html": "f453fcfb20a630a7eaba9c8c01dbfe76aa4a53d3",
-    "/MyCoins-Demo/main.js": "7955f3ccdf95b22320762a4ac7290a495b4f6c6d",
-    "/MyCoins-Demo/styles.css": "b9ec13514c3ec55cd39c800a09b6398f6a6125c7"
+    "/MyCoins-Demo/main.js": "db91ba8e567017150391a7c3f7da53a0e149dab5",
+    "/MyCoins-Demo/styles.css": "ec1b86bb235de58e53503f9ed63a4235cc6c8aca"
   },
   "navigationUrls": [
     {
