@@ -11,8 +11,8 @@
     "description": "This application is a centralized financial dashboard designed to manage multiple bank accounts and personal or family expenses. Originally conceived as a complex spreadsheet, it evolved into this PWA to overcome the limitations of maintaining a complex Excel file with multiple dynamic sources and advanced visualizations. Beyond its utility, this project serves as a technical showcase hosted on the cloud to test modern standards and latest framework updates.",
     "privacy_title": "Privacy",
     "privacy_text": "No data is collected or saved. This application runs entirely on the client side.",
-    "btn_new": "Start new",
-    "btn_sample": "Start with sample data",
+    "btn_new": "Start New",
+    "btn_sample": "Start With Sample Data",
     "contact": "Contact Developer"
   },
   "main_screen": {
@@ -58,31 +58,31 @@
       "11": "December"
     },
     "days": {
-      "sun": "sun",
-      "mon": "mon",
-      "tue": "tue",
-      "wed": "wed",
-      "thu": "thu",
-      "fri": "fri",
-      "sat": "sat"
+      "sun": "Sun",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat"
     }
   },
   "import_excel": {
-    "btn_label": "Import Excel file",
-    "template_ask": "Need a template?",
-    "download_label": "Download example file"
+    "btn_label": "Import Excel File",
+    "template_ask": "Need a Template?",
+    "download_label": "Download Example File"
   },
   "import_json": {
-    "btn_label": "Import Json file"
+    "btn_label": "Import Json File"
   },
   "export_json": {
-    "btn_label": "Export Json file"
+    "btn_label": "Export Json File"
   },
   "transactions": {
     "search_placeholder": "Search...",
     "items": "items",
     "btn_new": "+ New",
-    "no_transactions_found": "No transactions found.",
+    "no_transactions_found": "No Transactions Found.",
     "new_transaction": "New Transaction",
     "edit_transaction": "Edit Transaction"
   },
@@ -93,8 +93,8 @@
     "balance": "Balance",
     "currency": "Currency",
     "type": "Type",
-    "date_value": "Value date",
-    "date_transaction": "Transaction date"
+    "date_value": "Value Date",
+    "date_transaction": "Transaction Date"
   },
   "transaction_summary": {
     "table_header": {
@@ -106,7 +106,7 @@
   },
   "current_balance": {
     "total_balance": "Total Balance:",
-    "no_data_available": "No data available."
+    "no_data_available": "No Data Available."
   },
   "monthly_budget": {
     "income": "Income",

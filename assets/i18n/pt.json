@@ -11,37 +11,37 @@
     "description": "Esta aplicação é um dashboard financeiro centralizado, projetado para gerenciar múltiplas contas bancárias e despesas pessoais ou familiares. Originalmente concebido como uma planilha complexa, evoluiu para este PWA para superar as limitações de manutenção do Excel com fórmulas e gráficos vindas de múltiplas referências dinâmicas. Além de sua utilidade, este projeto serve como um showcase técnico hospedado na nuvem para testar padrões arquiteturais e atualizações de frameworks.",
     "privacy_title": "Privacidade",
     "privacy_text": "Nenhum dado é coletado ou salvo. Esta aplicação funciona inteiramente no lado do cliente para uma experiência segura e privada.",
-    "btn_new": "Começar novo",
-    "btn_sample": "Começar com dados de exemplo",
+    "btn_new": "Começar Novo",
+    "btn_sample": "Começar com Dados de Exemplo",
     "contact": "Contactar Desenvolvedor"
   },
   "main_screen": {
     "transactions": "Transações",
-    "monthly_budget": "Orçamento mensal",
-    "expenses_by_type": "Despesas por tipo",
-    "balance_history": "Histórico de saldo",
-    "transaction_summary": "Resumo de transações"
+    "monthly_budget": "Orçamento Mensal",
+    "expenses_by_type": "Despesas por Tipo",
+    "balance_history": "Histórico de Saldo",
+    "transaction_summary": "Resumo de Transações"
   },
   "mobile_screen": {
     "transactions": "Transações",
-    "monthly_budget": "Orçamento mensal",
-    "expenses_by_type": "Despesas por tipo",
-    "balance_history": "Histórico de saldo",
-    "transaction_summary": "Resumo de transações"
+    "monthly_budget": "Orçamento Mensal",
+    "expenses_by_type": "Despesas por Tipo",
+    "balance_history": "Histórico de Saldo",
+    "transaction_summary": "Resumo de Transações"
   },
   "common": {
     "close": "Fechar",
     "save_new": "Criar",
-    "update": "Salvar alterações",
+    "update": "Salvar Alterações",
     "delete": "Apagar",
     "cancel": "Cancelar",
     "history": {
-      "all": "Todo o histórico",
-      "current_month": "Mês atual",
-      "last_month": "Mês passado",
-      "last_3_months": "Últimos 3 meses",
-      "last_6_months": "Últimos 6 meses",
-      "last_year": "Últimos 12 meses"
+      "all": "Todo o Histórico",
+      "current_month": "Mês Atual",
+      "last_month": "Mês Passado",
+      "last_3_months": "Últimos 3 Meses",
+      "last_6_months": "Últimos 6 Meses",
+      "last_year": "Últimos 12 Meses"
     },
     "months": {
       "0": "Janeiro",
@@ -58,33 +58,33 @@
       "11": "Dezembro"
     },
     "days": {
-      "sun": "dom",
-      "mon": "seg",
-      "tue": "ter",
-      "wed": "qua",
-      "thu": "qui",
-      "fri": "sex",
-      "sat": "sáb"
+      "sun": "Dom",
+      "mon": "Seg",
+      "tue": "Ter",
+      "wed": "Qua",
+      "thu": "Qui",
+      "fri": "Sex",
+      "sat": "Sáb"
     }
   },
   "import_excel": {
-    "btn_label": "Importar arquivo Excel",
-    "template_ask": "Precisa de um modelo?",
-    "download_label": "Baixar arquivo de exemplo"
+    "btn_label": "Importar Arquivo Excel",
+    "template_ask": "Precisa de um Modelo?",
+    "download_label": "Baixar Arquivo de Exemplo"
   },
   "import_json": {
-    "btn_label": "Importar arquivo Json"
+    "btn_label": "Importar Arquivo Json"
   },
   "export_json": {
-    "btn_label": "Exportar arquivo Json"
+    "btn_label": "Exportar Arquivo Json"
   },
   "transactions": {
     "search_placeholder": "Pesquisar...",
-    "items": "itens",
+    "items": "Itens",
     "btn_new": "+ Criar",
-    "no_transactions_found": "Nenhuma transação encontrada.",
-    "new_transaction": "Nova transação",
-    "edit_transaction": "Editar transação"
+    "no_transactions_found": "Nenhuma Transação Encontrada.",
+    "new_transaction": "Nova Transação",
+    "edit_transaction": "Editar Transação"
   },
   "transaction_modal": {
     "source": "Origem",
@@ -93,28 +93,28 @@
     "balance": "Saldo",
     "currency": "Moeda",
     "type": "Tipo",
-    "date_value": "Data valor",
-    "date_transaction": "Data da transação"
+    "date_value": "Data Valor",
+    "date_transaction": "Data da Transação"
   },
   "transaction_summary": {
     "table_header": {
       "type": "Tipo",
       "total": "Total",
       "time_period": "Período",
-      "daily_average": "Média diária"
+      "daily_average": "Média Diária"
     }
   },
   "current_balance": {
-    "total_balance": "Saldo total:",
-    "no_data_available": "Nenhum dado disponível."
+    "total_balance": "Saldo Total:",
+    "no_data_available": "Nenhum Dado Disponível."
   },
   "monthly_budget": {
     "income": "Receitas",
     "expenses": "Despesas",
     "net": "Líquido",
-    "projected_net": "Líquido projetado",
-    "daily_available": "Disponível diário",
-    "remaining_daily_available": "Disponível diário (dias restantes)",
+    "projected_net": "Líquido Projetado",
+    "daily_available": "Disponível Diário",
+    "remaining_daily_available": "Disponível Diário (Dias Restantes)",
     "add_new": "+ Criar",
     "planned_item": "Item Planeado",
     "date": "Data",
