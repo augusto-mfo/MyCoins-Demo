@@ -23,11 +23,11 @@
     "transaction_summary": "Resumo de Transações"
   },
   "mobile_screen": {
-    "transactions": "Transações",
+    "transactions": "Lista Transações",
     "monthly_budget": "Orçamento Mensal",
     "expenses_by_type": "Despesas por Tipo",
     "balance_history": "Histórico de Saldo",
-    "transaction_summary": "Resumo de Transações"
+    "transaction_summary": "Resumo Transações"
   },
   "common": {
     "close": "Fechar",

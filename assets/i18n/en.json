@@ -23,7 +23,7 @@
     "transaction_summary": "Transaction Summary"
   },
   "mobile_screen": {
-    "transactions": "Transactions",
+    "transactions": "Transaction List",
     "monthly_budget": "Monthly Budget",
     "expenses_by_type": "Expenses by Type",
     "balance_history": "Balance History",
