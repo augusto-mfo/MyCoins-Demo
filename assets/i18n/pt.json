@@ -84,9 +84,7 @@
     "btn_new": "+ Criar",
     "no_transactions_found": "Nenhuma Transação Encontrada.",
     "new_transaction": "Nova Transação",
-    "edit_transaction": "Editar Transação"
-  },
-  "transaction_modal": {
+    "edit_transaction": "Editar Transação",
     "source": "Origem",
     "description": "Descrição",
     "amount": "Valor",

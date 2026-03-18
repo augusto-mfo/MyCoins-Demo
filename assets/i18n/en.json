@@ -84,9 +84,7 @@
     "btn_new": "+ New",
     "no_transactions_found": "No Transactions Found.",
     "new_transaction": "New Transaction",
-    "edit_transaction": "Edit Transaction"
-  },
-  "transaction_modal": {
+    "edit_transaction": "Edit Transaction",
     "source": "Source",
     "description": "Description",
     "amount": "Amount",
