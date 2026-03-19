@@ -17,7 +17,9 @@
   },
   "main_screen": {
     "transactions": "Transações",
+    "transactions_tip": "Movimentos confirmados que já ocorreram na instituição financeira.",
     "monthly_budget": "Orçamento Mensal",
+    "monthly_budget_tip": "Exibe as transações e também as operações previstas ou planeadas para o mês. As operações criadas aqui não afetam o saldo global e servem como marcador para movimentos futuros.",
     "expenses_by_type": "Despesas por Tipo",
     "balance_history": "Histórico de Saldo",
     "transaction_summary": "Resumo de Transações"
