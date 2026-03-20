@@ -16,20 +16,20 @@
     "contact": "Contactar Desenvolvedor"
   },
   "main_screen": {
-    "transactions": "Transações",
+    "transactions": "Movimentos",
     "transactions_tip": "Movimentos confirmados que já ocorreram na instituição financeira.",
     "monthly_budget": "Orçamento Mensal",
-    "monthly_budget_tip": "Exibe as transações e também as operações previstas ou planeadas para o mês. As operações criadas aqui não afetam o saldo global e servem como marcador para movimentos futuros.",
+    "monthly_budget_tip": "Exibe os movimentos e também as operações previstas ou planeadas para o mês. As operações criadas aqui não afetam o saldo global e servem como marcador para movimentos futuros.",
     "expenses_by_type": "Despesas por Tipo",
     "balance_history": "Histórico de Saldo",
-    "transaction_summary": "Resumo de Transações"
+    "transaction_summary": "Resumo de Movimentos"
   },
   "mobile_screen": {
-    "transactions": "Lista Transações",
+    "transactions": "Lista Movimentos",
     "monthly_budget": "Orçamento Mensal",
     "expenses_by_type": "Despesas por Tipo",
     "balance_history": "Histórico de Saldo",
-    "transaction_summary": "Resumo Transações"
+    "transaction_summary": "Resumo Movimentos"
   },
   "common": {
     "close": "Fechar",
@@ -84,9 +84,9 @@
     "search_placeholder": "Pesquisar...",
     "items": "Itens",
     "btn_new": "+ Criar",
-    "no_transactions_found": "Nenhuma Transação Encontrada.",
-    "new_transaction": "Nova Transação",
-    "edit_transaction": "Editar Transação",
+    "no_transactions_found": "Nenhum Movimento Encontrado.",
+    "new_transaction": "Novo Movimento",
+    "edit_transaction": "Editar Movimento",
     "source": "Origem",
     "description": "Descrição",
     "amount": "Valor",
@@ -94,7 +94,7 @@
     "currency": "Moeda",
     "type": "Tipo",
     "date_value": "Data Valor",
-    "date_transaction": "Data da Transação"
+    "date_transaction": "Data do Movimento"
   },
   "transaction_summary": {
     "table_header": {
