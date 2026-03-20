@@ -13,7 +13,8 @@
     "privacy_text": "No data is collected or saved. This application runs entirely on the client side.",
     "btn_new": "Start New",
     "btn_sample": "Start With Sample Data",
-    "contact": "Contact Developer"
+    "contact": "Contact Developer",
+    "hide_dialog": "Do not show this message next time"
   },
   "main_screen": {
     "transactions": "Transactions",

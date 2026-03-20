@@ -13,7 +13,8 @@
     "privacy_text": "Nenhum dado é coletado ou salvo. Esta aplicação funciona inteiramente no lado do cliente para uma experiência segura e privada.",
     "btn_new": "Começar Novo",
     "btn_sample": "Começar com Dados de Exemplo",
-    "contact": "Contactar Desenvolvedor"
+    "contact": "Contactar Desenvolvedor",
+    "hide_dialog": "Não exibir da próxima vez"
   },
   "main_screen": {
     "transactions": "Movimentos",
