@@ -23,7 +23,8 @@
     "monthly_budget_tip": "Displays transactions as well as expected or planned operations for the month. Operations created here do not affect the global balance and serve as placeholders for future movements.",
     "expenses_by_type": "Expenses by Type",
     "balance_history": "Balance History",
-    "transaction_summary": "Transaction Summary"
+    "transaction_summary": "Transaction Summary",
+    "show_balance": "Show Balance"
   },
   "mobile_screen": {
     "transactions": "Transaction List",

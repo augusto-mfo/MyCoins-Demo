@@ -23,7 +23,8 @@
     "monthly_budget_tip": "Exibe os movimentos e também as operações previstas ou planeadas para o mês. As operações criadas aqui não afetam o saldo global e servem como marcador para movimentos futuros.",
     "expenses_by_type": "Despesas por Tipo",
     "balance_history": "Histórico de Saldo",
-    "transaction_summary": "Resumo de Movimentos"
+    "transaction_summary": "Resumo de Movimentos",
+    "show_balance": "Exibir Saldo"
   },
   "mobile_screen": {
     "transactions": "Lista Movimentos",
