@@ -24,7 +24,8 @@
     "expenses_by_type": "Despesas por Tipo",
     "balance_history": "Histórico de Saldo",
     "transaction_summary": "Resumo de Movimentos",
-    "show_balance": "Exibir Saldo"
+    "show_balance": "Exibir Saldo",
+    "charts": "Gráficos"
   },
   "mobile_screen": {
     "transactions": "Lista Movimentos",

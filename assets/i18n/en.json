@@ -24,7 +24,8 @@
     "expenses_by_type": "Expenses by Type",
     "balance_history": "Balance History",
     "transaction_summary": "Transaction Summary",
-    "show_balance": "Show Balance"
+    "show_balance": "Show Balance",
+    "charts": "Charts"
   },
   "mobile_screen": {
     "transactions": "Transaction List",
