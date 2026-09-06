@@ -3,7 +3,8 @@
     "title": "MyCoins Demo",
     "import": "Abrir",
     "export": "Salvar",
-    "about": "Sobre"
+    "about": "Sobre",
+    "home_shortcut": "Ir para o Início"
   },
   "about": {
     "title": "MyCoins Demo",
@@ -17,6 +18,7 @@
     "hide_dialog": "Não exibir da próxima vez"
   },
   "main_screen": {
+    "home": "Início",
     "transactions": "Movimentos",
     "transactions_tip": "Movimentos confirmados que já ocorreram na instituição financeira.",
     "monthly_budget": "Orçamento Mensal",
@@ -28,11 +30,40 @@
     "charts": "Gráficos"
   },
   "mobile_screen": {
+    "home": "Início",
     "transactions": "Lista Movimentos",
     "monthly_budget": "Orçamento Mensal",
     "expenses_by_type": "Despesas por Tipo",
     "balance_history": "Histórico de Saldo",
     "transaction_summary": "Resumo Movimentos"
+  },
+  "home": {
+    "title": "Bem-vindo ao MyCoins",
+    "subtitle": "Escolha para onde deseja ir.",
+    "transactions": {
+      "title": "Movimentos",
+      "description": "Movimentos confirmados que já ocorreram na instituição financeira."
+    },
+    "budget": {
+      "title": "Orçamento Mensal",
+      "description": "Acompanhe as receitas e despesas previstas para o mês atual."
+    },
+    "charts": {
+      "title": "Gráficos",
+      "description": "Visualize as suas despesas por tipo e o histórico de saldo."
+    },
+    "transactionSummary": {
+      "title": "Resumo de Movimentos",
+      "description": "Uma visão agrupada dos seus movimentos por tipo e período."
+    },
+    "expensesByType": {
+      "title": "Despesas por Tipo",
+      "description": "Veja como os seus gastos se distribuem pelas categorias."
+    },
+    "balanceHistory": {
+      "title": "Histórico de Saldo",
+      "description": "Acompanhe a evolução do seu saldo ao longo do tempo."
+    }
   },
   "common": {
     "close": "Fechar",

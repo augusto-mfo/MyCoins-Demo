@@ -3,7 +3,8 @@
     "title": "MyCoins Demo",
     "import": "Import",
     "export": "Export",
-    "about": "About"
+    "about": "About",
+    "home_shortcut": "Go to Home"
   },
   "about": {
     "title": "MyCoins Demo",
@@ -17,6 +18,7 @@
     "hide_dialog": "Do not show this message next time"
   },
   "main_screen": {
+    "home": "Home",
     "transactions": "Transactions",
     "transactions_tip": "Settled transactions that have already occurred at your financial institution.",
     "monthly_budget": "Monthly Budget",
@@ -28,11 +30,40 @@
     "charts": "Charts"
   },
   "mobile_screen": {
+    "home": "Home",
     "transactions": "Transaction List",
     "monthly_budget": "Monthly Budget",
     "expenses_by_type": "Expenses by Type",
     "balance_history": "Balance History",
     "transaction_summary": "Transaction Summary"
+  },
+  "home": {
+    "title": "Welcome to MyCoins",
+    "subtitle": "Choose where you'd like to go.",
+    "transactions": {
+      "title": "Transactions",
+      "description": "Settled transactions that have already occurred at your financial institution."
+    },
+    "budget": {
+      "title": "Monthly Budget",
+      "description": "Track expected income and expenses for the current month."
+    },
+    "charts": {
+      "title": "Charts",
+      "description": "Visualize your expenses by type and your balance history."
+    },
+    "transactionSummary": {
+      "title": "Transaction Summary",
+      "description": "A grouped overview of your transactions by type and period."
+    },
+    "expensesByType": {
+      "title": "Expenses by Type",
+      "description": "See how your spending is distributed across categories."
+    },
+    "balanceHistory": {
+      "title": "Balance History",
+      "description": "Follow how your balance has evolved over time."
+    }
   },
   "common": {
     "close": "Close",
