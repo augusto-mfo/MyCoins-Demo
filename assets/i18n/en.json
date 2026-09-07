@@ -1,9 +1,6 @@
 {
   "header": {
     "title": "MyCoins Demo",
-    "import": "Import",
-    "export": "Export",
-    "about": "About",
     "home_shortcut": "Go to Home"
   },
   "about": {
@@ -30,12 +27,7 @@
     "charts": "Charts"
   },
   "mobile_screen": {
-    "home": "Home",
-    "transactions": "Transaction List",
-    "monthly_budget": "Monthly Budget",
-    "expenses_by_type": "Expenses by Type",
-    "balance_history": "Balance History",
-    "transaction_summary": "Transaction Summary"
+    "home": "Home"
   },
   "home": {
     "title": "Welcome to MyCoins",
@@ -63,6 +55,18 @@
     "balanceHistory": {
       "title": "Balance History",
       "description": "Follow how your balance has evolved over time."
+    },
+    "import": {
+      "title": "Import",
+      "description": "Load transactions from a JSON backup or an Excel spreadsheet."
+    },
+    "export": {
+      "title": "Export",
+      "description": "Download a JSON backup of your transactions and budget."
+    },
+    "about": {
+      "title": "About",
+      "description": "Learn more about this app, privacy, and options to start fresh or load sample data."
     }
   },
   "common": {

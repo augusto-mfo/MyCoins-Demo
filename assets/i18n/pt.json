@@ -1,9 +1,6 @@
 {
   "header": {
     "title": "MyCoins Demo",
-    "import": "Abrir",
-    "export": "Salvar",
-    "about": "Sobre",
     "home_shortcut": "Ir para o Início"
   },
   "about": {
@@ -30,12 +27,7 @@
     "charts": "Gráficos"
   },
   "mobile_screen": {
-    "home": "Início",
-    "transactions": "Lista Movimentos",
-    "monthly_budget": "Orçamento Mensal",
-    "expenses_by_type": "Despesas por Tipo",
-    "balance_history": "Histórico de Saldo",
-    "transaction_summary": "Resumo Movimentos"
+    "home": "Início"
   },
   "home": {
     "title": "Bem-vindo ao MyCoins",
@@ -63,6 +55,18 @@
     "balanceHistory": {
       "title": "Histórico de Saldo",
       "description": "Acompanhe a evolução do seu saldo ao longo do tempo."
+    },
+    "import": {
+      "title": "Abrir",
+      "description": "Carregue movimentos a partir de um backup JSON ou de uma folha de Excel."
+    },
+    "export": {
+      "title": "Salvar",
+      "description": "Descarregue um backup JSON dos seus movimentos e orçamento."
+    },
+    "about": {
+      "title": "Sobre",
+      "description": "Saiba mais sobre esta aplicação, privacidade e opções para começar do zero ou carregar dados de exemplo."
     }
   },
   "common": {
