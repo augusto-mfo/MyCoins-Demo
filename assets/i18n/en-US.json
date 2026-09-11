@@ -1,0 +1,163 @@
+{
+  "header": {
+    "title": "MyCoins Demo",
+    "home_shortcut": "Go to Home"
+  },
+  "about": {
+    "title": "MyCoins Demo",
+    "badge": "Live Showcase",
+    "description": "This application is a centralized financial dashboard designed to manage multiple bank accounts and personal or family expenses. Originally conceived as a complex spreadsheet, it evolved into this PWA to overcome the limitations of maintaining a complex Excel file with multiple dynamic sources and advanced visualizations. Beyond its utility, this project serves as a technical showcase hosted on the cloud to test modern standards and latest framework updates.",
+    "privacy_title": "Privacy",
+    "privacy_text": "No data is collected or saved. This application runs entirely on the client side.",
+    "btn_new": "Start New",
+    "btn_sample": "Start With Sample Data",
+    "contact": "Contact Developer",
+    "hide_dialog": "Do not show this message next time"
+  },
+  "main_screen": {
+    "home": "Home",
+    "transactions": "Transactions",
+    "transactions_tip": "Settled transactions that have already occurred at your financial institution.",
+    "monthly_budget": "Monthly Budget",
+    "monthly_budget_tip": "Displays transactions as well as expected or planned operations for the month. Operations created here do not affect the global balance and serve as placeholders for future movements.",
+    "expenses_by_type": "Expenses by Type",
+    "balance_history": "Balance History",
+    "transaction_summary": "Transaction Summary",
+    "show_balance": "Show Balance",
+    "charts": "Charts"
+  },
+  "mobile_screen": {
+    "home": "Home"
+  },
+  "home": {
+    "title": "Welcome to MyCoins",
+    "subtitle": "Choose where you'd like to go.",
+    "transactions": {
+      "title": "Transactions",
+      "description": "Settled transactions that have already occurred at your financial institution."
+    },
+    "budget": {
+      "title": "Monthly Budget",
+      "description": "Track expected income and expenses for the current month."
+    },
+    "charts": {
+      "title": "Charts",
+      "description": "Visualize your expenses by type and your balance history."
+    },
+    "transactionSummary": {
+      "title": "Transaction Summary",
+      "description": "A grouped overview of your transactions by type and period."
+    },
+    "expensesByType": {
+      "title": "Expenses by Type",
+      "description": "See how your spending is distributed across categories."
+    },
+    "balanceHistory": {
+      "title": "Balance History",
+      "description": "Follow how your balance has evolved over time."
+    },
+    "import": {
+      "title": "Import",
+      "description": "Load transactions from a JSON backup or an Excel spreadsheet."
+    },
+    "export": {
+      "title": "Export",
+      "description": "Download a JSON backup of your transactions and budget."
+    },
+    "about": {
+      "title": "About",
+      "description": "Learn more about this app, privacy, and options to start fresh or load sample data."
+    }
+  },
+  "common": {
+    "close": "Close",
+    "save_new": "Create",
+    "update": "Save changes",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "history": {
+      "all": "All History",
+      "current_month": "Current Month",
+      "last_month": "Last Month",
+      "last_3_months": "Last 3 Months",
+      "last_6_months": "Last 6 Months",
+      "last_year": "Last 12 Months"
+    },
+    "months": {
+      "0": "January",
+      "1": "February",
+      "2": "March",
+      "3": "April",
+      "4": "May",
+      "5": "June",
+      "6": "July",
+      "7": "August",
+      "8": "September",
+      "9": "October",
+      "10": "November",
+      "11": "December"
+    },
+    "days": {
+      "sun": "Sun",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat"
+    }
+  },
+  "import_excel": {
+    "btn_label": "Import Excel File",
+    "template_ask": "Need a Template?",
+    "download_label": "Download Example File"
+  },
+  "import_json": {
+    "btn_label": "Import Json File"
+  },
+  "export_json": {
+    "btn_label": "Export Json File"
+  },
+  "transactions": {
+    "search_placeholder": "Search...",
+    "items": "items",
+    "btn_new": "+ New",
+    "no_transactions_found": "No Transactions Found.",
+    "new_transaction": "New Transaction",
+    "edit_transaction": "Edit Transaction",
+    "source": "Source",
+    "description": "Description",
+    "amount": "Amount",
+    "balance": "Balance",
+    "currency": "Currency",
+    "type": "Type",
+    "date_value": "Value Date",
+    "date_transaction": "Transaction Date"
+  },
+  "transaction_summary": {
+    "table_header": {
+      "type": "Type",
+      "total": "Total",
+      "time_period": "Time Period",
+      "daily_average": "Daily Average"
+    }
+  },
+  "current_balance": {
+    "total_balance": "Total Balance:",
+    "no_data_available": "No Data Available."
+  },
+  "monthly_budget": {
+    "income": "Income",
+    "expenses": "Expenses",
+    "net": "Net",
+    "projected_net": "Projected Net",
+    "daily_available": "Daily Available",
+    "remaining_daily_available": "Daily Available (Remaining Days)",
+    "add_new": "+ New",
+    "planned_item": "Planned Item",
+    "date": "Date",
+    "amount": "Amount",
+    "description": "Description",
+    "description_help": "Ex: Grocery Shopping"
+  }
+}

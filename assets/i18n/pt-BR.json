@@ -1,0 +1,163 @@
+{
+  "header": {
+    "title": "MyCoins Demo",
+    "home_shortcut": "Ir para o Início"
+  },
+  "about": {
+    "title": "MyCoins Demo",
+    "badge": "Showcase ao Vivo",
+    "description": "Esta aplicação é um dashboard financeiro centralizado, projetado para gerenciar múltiplas contas bancárias e despesas pessoais ou familiares. Originalmente concebido como uma planilha complexa, evoluiu para este PWA para superar as limitações de manutenção do Excel com fórmulas e gráficos vindas de múltiplas referências dinâmicas. Além de sua utilidade, este projeto serve como um showcase técnico hospedado na nuvem para testar padrões arquiteturais e atualizações de frameworks.",
+    "privacy_title": "Privacidade",
+    "privacy_text": "Nenhum dado é coletado ou salvo. Esta aplicação funciona inteiramente no lado do cliente para uma experiência segura e privada.",
+    "btn_new": "Começar Novo",
+    "btn_sample": "Começar com Dados de Exemplo",
+    "contact": "Contatar Desenvolvedor",
+    "hide_dialog": "Não exibir da próxima vez"
+  },
+  "main_screen": {
+    "home": "Início",
+    "transactions": "Movimentos",
+    "transactions_tip": "Movimentos confirmados que já ocorreram na instituição financeira.",
+    "monthly_budget": "Orçamento Mensal",
+    "monthly_budget_tip": "Exibe os movimentos e também as operações previstas ou planeadas para o mês. As operações criadas aqui não afetam o saldo global e servem como marcador para movimentos futuros.",
+    "expenses_by_type": "Despesas por Tipo",
+    "balance_history": "Histórico de Saldo",
+    "transaction_summary": "Resumo de Movimentos",
+    "show_balance": "Exibir Saldo",
+    "charts": "Gráficos"
+  },
+  "mobile_screen": {
+    "home": "Início"
+  },
+  "home": {
+    "title": "Bem-vindo ao MyCoins",
+    "subtitle": "Escolha para onde deseja ir.",
+    "transactions": {
+      "title": "Movimentos",
+      "description": "Movimentos confirmados que já ocorreram na instituição financeira."
+    },
+    "budget": {
+      "title": "Orçamento Mensal",
+      "description": "Acompanhe as receitas e despesas previstas para o mês atual."
+    },
+    "charts": {
+      "title": "Gráficos",
+      "description": "Visualize as suas despesas por tipo e o histórico de saldo."
+    },
+    "transactionSummary": {
+      "title": "Resumo de Movimentos",
+      "description": "Uma visão agrupada dos seus movimentos por tipo e período."
+    },
+    "expensesByType": {
+      "title": "Despesas por Tipo",
+      "description": "Veja como os seus gastos se distribuem pelas categorias."
+    },
+    "balanceHistory": {
+      "title": "Histórico de Saldo",
+      "description": "Acompanhe a evolução do seu saldo ao longo do tempo."
+    },
+    "import": {
+      "title": "Abrir",
+      "description": "Carregue movimentos a partir de um backup JSON ou de uma folha de Excel."
+    },
+    "export": {
+      "title": "Salvar",
+      "description": "Baixe um backup JSON dos seus movimentos e orçamento."
+    },
+    "about": {
+      "title": "Sobre",
+      "description": "Saiba mais sobre esta aplicação, privacidade e opções para começar do zero ou carregar dados de exemplo."
+    }
+  },
+  "common": {
+    "close": "Fechar",
+    "save_new": "Criar",
+    "update": "Salvar Alterações",
+    "delete": "Apagar",
+    "cancel": "Cancelar",
+    "history": {
+      "all": "Todo o Histórico",
+      "current_month": "Mês Atual",
+      "last_month": "Mês Passado",
+      "last_3_months": "Últimos 3 Meses",
+      "last_6_months": "Últimos 6 Meses",
+      "last_year": "Últimos 12 Meses"
+    },
+    "months": {
+      "0": "Janeiro",
+      "1": "Fevereiro",
+      "2": "Março",
+      "3": "Abril",
+      "4": "Maio",
+      "5": "Junho",
+      "6": "Julho",
+      "7": "Agosto",
+      "8": "Setembro",
+      "9": "Outubro",
+      "10": "Novembro",
+      "11": "Dezembro"
+    },
+    "days": {
+      "sun": "Dom",
+      "mon": "Seg",
+      "tue": "Ter",
+      "wed": "Qua",
+      "thu": "Qui",
+      "fri": "Sex",
+      "sat": "Sáb"
+    }
+  },
+  "import_excel": {
+    "btn_label": "Importar Arquivo Excel",
+    "template_ask": "Precisa de um Modelo?",
+    "download_label": "Baixar Arquivo de Exemplo"
+  },
+  "import_json": {
+    "btn_label": "Abrir Arquivo Json"
+  },
+  "export_json": {
+    "btn_label": "Salvar Arquivo Json"
+  },
+  "transactions": {
+    "search_placeholder": "Pesquisar...",
+    "items": "Itens",
+    "btn_new": "+ Criar",
+    "no_transactions_found": "Nenhum Movimento Encontrado.",
+    "new_transaction": "Novo Movimento",
+    "edit_transaction": "Editar Movimento",
+    "source": "Origem",
+    "description": "Descrição",
+    "amount": "Valor",
+    "balance": "Saldo",
+    "currency": "Moeda",
+    "type": "Tipo",
+    "date_value": "Data Valor",
+    "date_transaction": "Data do Movimento"
+  },
+  "transaction_summary": {
+    "table_header": {
+      "type": "Tipo",
+      "total": "Total",
+      "time_period": "Período",
+      "daily_average": "Média Diária"
+    }
+  },
+  "current_balance": {
+    "total_balance": "Saldo Total:",
+    "no_data_available": "Nenhum Dado Disponível."
+  },
+  "monthly_budget": {
+    "income": "Receitas",
+    "expenses": "Despesas",
+    "net": "Líquido",
+    "projected_net": "Líquido Projetado",
+    "daily_available": "Disponível Diário",
+    "remaining_daily_available": "Disponível Diário (Dias Restantes)",
+    "add_new": "+ Criar",
+    "planned_item": "Item Planejado",
+    "date": "Data",
+    "amount": "Valor",
+    "description": "Descrição",
+    "description_help": "Ex: Compras no Shopping"
+  }
+}
