@@ -20,6 +20,8 @@
     "transactions_tip": "Settled transactions that have already occurred at your financial institution.",
     "monthly_budget": "Monthly Budget",
     "monthly_budget_tip": "Displays transactions as well as expected or planned operations for the month. Operations created here do not affect the global balance and serve as placeholders for future movements.",
+    "loans": "Loans",
+    "loans_tip": "Track your loans and credits to keep a clear picture of your total debt.",
     "expenses_by_type": "Expenses by Type",
     "balance_history": "Balance History",
     "transaction_summary": "Transaction Summary",
@@ -39,6 +41,10 @@
     "budget": {
       "title": "Monthly Budget",
       "description": "Track expected income and expenses for the current month."
+    },
+    "loans": {
+      "title": "Loans",
+      "description": "Manage your loans and credits and see your total outstanding debt."
     },
     "charts": {
       "title": "Charts",
@@ -159,5 +165,38 @@
     "amount": "Amount",
     "description": "Description",
     "description_help": "Ex: Grocery Shopping"
+  },
+  "loans": {
+    "total_debt": "Total Debt",
+    "total_remaining_cost": "Remaining Cost",
+    "items": "loans",
+    "btn_new": "+ New",
+    "no_loans_found": "No Loans Found.",
+    "untitled": "Untitled Loan",
+    "new_loan": "New Loan",
+    "edit_loan": "Edit Loan",
+    "institution": "Bank / Institution",
+    "original_amount": "Original Amount",
+    "current_debt": "Current Debt",
+    "payment_value": "Payment Value",
+    "number_of_payments": "Number of Payments",
+    "remaining_payments": "Remaining Payments",
+    "period": "Payment Period",
+    "remaining_cost": "Remaining Cost",
+    "paid_installments": "paid",
+    "periods": {
+      "weekly": "Weekly",
+      "biweekly": "Biweekly",
+      "monthly": "Monthly",
+      "quarterly": "Quarterly",
+      "yearly": "Yearly"
+    },
+    "payments_made": "Payments Made",
+    "payments_tip": "Log the actual payments you make. Useful when the loan doesn't have a fixed rate and payments may vary.",
+    "payments_after_save": "Save the loan first to start logging payments made against it.",
+    "total_paid": "Total Paid",
+    "no_payments_recorded": "No Payments Recorded Yet.",
+    "payment_date": "Date",
+    "btn_add_payment": "+ Add"
   }
 }

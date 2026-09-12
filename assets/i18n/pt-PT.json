@@ -20,6 +20,8 @@
     "transactions_tip": "Movimentos confirmados que já ocorreram na instituição financeira.",
     "monthly_budget": "Orçamento Mensal",
     "monthly_budget_tip": "Exibe os movimentos e também as operações previstas ou planeadas para o mês. As operações criadas aqui não afetam o saldo global e servem como marcador para movimentos futuros.",
+    "loans": "Créditos",
+    "loans_tip": "Registe os seus créditos e empréstimos para ter uma visão clara da sua dívida total.",
     "expenses_by_type": "Despesas por Tipo",
     "balance_history": "Histórico de Saldo",
     "transaction_summary": "Resumo de Movimentos",
@@ -39,6 +41,10 @@
     "budget": {
       "title": "Orçamento Mensal",
       "description": "Acompanhe as receitas e despesas previstas para o mês atual."
+    },
+    "loans": {
+      "title": "Créditos",
+      "description": "Faça a gestão dos seus créditos e empréstimos e veja a sua dívida total em aberto."
     },
     "charts": {
       "title": "Gráficos",
@@ -159,5 +165,38 @@
     "amount": "Valor",
     "description": "Descrição",
     "description_help": "Ex: Compras no Shopping"
+  },
+  "loans": {
+    "total_debt": "Dívida Total",
+    "total_remaining_cost": "Custo Remanescente",
+    "items": "créditos",
+    "btn_new": "+ Novo",
+    "no_loans_found": "Nenhum Crédito Encontrado.",
+    "untitled": "Crédito Sem Nome",
+    "new_loan": "Novo Crédito",
+    "edit_loan": "Editar Crédito",
+    "institution": "Banco / Instituição",
+    "original_amount": "Montante Original",
+    "current_debt": "Dívida Atual",
+    "payment_value": "Valor da Prestação",
+    "number_of_payments": "Número de Prestações",
+    "remaining_payments": "Prestações Restantes",
+    "period": "Periodicidade",
+    "remaining_cost": "Custo Remanescente",
+    "paid_installments": "pagas",
+    "periods": {
+      "weekly": "Semanal",
+      "biweekly": "Quinzenal",
+      "monthly": "Mensal",
+      "quarterly": "Trimestral",
+      "yearly": "Anual"
+    },
+    "payments_made": "Pagamentos Efetuados",
+    "payments_tip": "Registe os pagamentos que efetuou. Útil quando o crédito não tem uma taxa fixa e os pagamentos podem variar.",
+    "payments_after_save": "Guarde primeiro o crédito para começar a registar os pagamentos efetuados.",
+    "total_paid": "Total Pago",
+    "no_payments_recorded": "Ainda Não Há Pagamentos Registados.",
+    "payment_date": "Data",
+    "btn_add_payment": "+ Adicionar"
   }
 }

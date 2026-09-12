@@ -20,6 +20,8 @@
     "transactions_tip": "Movimentos confirmados que já ocorreram na instituição financeira.",
     "monthly_budget": "Orçamento Mensal",
     "monthly_budget_tip": "Exibe os movimentos e também as operações previstas ou planeadas para o mês. As operações criadas aqui não afetam o saldo global e servem como marcador para movimentos futuros.",
+    "loans": "Empréstimos",
+    "loans_tip": "Registre seus empréstimos e financiamentos para ter uma visão clara da sua dívida total.",
     "expenses_by_type": "Despesas por Tipo",
     "balance_history": "Histórico de Saldo",
     "transaction_summary": "Resumo de Movimentos",
@@ -39,6 +41,10 @@
     "budget": {
       "title": "Orçamento Mensal",
       "description": "Acompanhe as receitas e despesas previstas para o mês atual."
+    },
+    "loans": {
+      "title": "Empréstimos",
+      "description": "Gerencie seus empréstimos e financiamentos e veja sua dívida total em aberto."
     },
     "charts": {
       "title": "Gráficos",
@@ -159,5 +165,38 @@
     "amount": "Valor",
     "description": "Descrição",
     "description_help": "Ex: Compras no Shopping"
+  },
+  "loans": {
+    "total_debt": "Dívida Total",
+    "total_remaining_cost": "Custo Restante",
+    "items": "empréstimos",
+    "btn_new": "+ Novo",
+    "no_loans_found": "Nenhum Empréstimo Encontrado.",
+    "untitled": "Empréstimo Sem Nome",
+    "new_loan": "Novo Empréstimo",
+    "edit_loan": "Editar Empréstimo",
+    "institution": "Banco / Instituição",
+    "original_amount": "Valor Original",
+    "current_debt": "Dívida Atual",
+    "payment_value": "Valor da Parcela",
+    "number_of_payments": "Número de Parcelas",
+    "remaining_payments": "Parcelas Restantes",
+    "period": "Periodicidade",
+    "remaining_cost": "Custo Restante",
+    "paid_installments": "pagas",
+    "periods": {
+      "weekly": "Semanal",
+      "biweekly": "Quinzenal",
+      "monthly": "Mensal",
+      "quarterly": "Trimestral",
+      "yearly": "Anual"
+    },
+    "payments_made": "Pagamentos Realizados",
+    "payments_tip": "Registre os pagamentos que você realizou. Útil quando o empréstimo não tem taxa fixa e os pagamentos podem variar.",
+    "payments_after_save": "Salve o empréstimo primeiro para começar a registrar os pagamentos realizados.",
+    "total_paid": "Total Pago",
+    "no_payments_recorded": "Nenhum Pagamento Registrado Ainda.",
+    "payment_date": "Data",
+    "btn_add_payment": "+ Adicionar"
   }
 }
