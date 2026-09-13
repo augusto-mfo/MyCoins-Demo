@@ -184,6 +184,8 @@
     "period": "Payment Period",
     "remaining_cost": "Remaining Cost",
     "paid_installments": "paid",
+    "paid_amount": "paid",
+    "percentage_paid": "Paid Down",
     "periods": {
       "weekly": "Weekly",
       "biweekly": "Biweekly",

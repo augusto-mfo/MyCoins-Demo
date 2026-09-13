@@ -184,6 +184,8 @@
     "period": "Periodicidade",
     "remaining_cost": "Custo Restante",
     "paid_installments": "pagas",
+    "paid_amount": "pago",
+    "percentage_paid": "Pago",
     "periods": {
       "weekly": "Semanal",
       "biweekly": "Quinzenal",
