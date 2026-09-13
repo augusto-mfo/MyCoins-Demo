@@ -26,7 +26,9 @@
     "balance_history": "Balance History",
     "transaction_summary": "Transaction Summary",
     "show_balance": "Show Balance",
-    "charts": "Charts"
+    "charts": "Charts",
+    "insurances": "Insurances",
+    "insurances_tip": "Track your car and house insurances, including when you need to give notice before switching."
   },
   "mobile_screen": {
     "home": "Home"
@@ -73,6 +75,10 @@
     "about": {
       "title": "About",
       "description": "Learn more about this app, privacy, and options to start fresh or load sample data."
+    },
+    "insurances": {
+      "title": "Insurances",
+      "description": "Manage your car and house insurances and stay ahead of renewal notice deadlines."
     }
   },
   "common": {
@@ -142,14 +148,16 @@
     "date_transaction": "Transaction Date",
     "selected": "selected",
     "btn_clear_selection": "Clear",
-    "btn_assign_loan": "Assign to Loan",
-    "assign_modal_title": "Assign to Loan",
-    "assign_modal_hint": "choose which loan to log these as payments for.",
-    "no_loans_available": "You don't have any loans yet.",
+    "btn_assign_loan": "Link to Loan/Insurance",
+    "assign_modal_title": "Link to Loan/Insurance",
+    "assign_modal_hint": "choose which loan or insurance to log these as payments for.",
     "linked_badge": "Linked",
     "linked_to": "Linked to",
     "btn_select": "Select",
-    "btn_cancel_selection": "Cancel Selection"
+    "btn_cancel_selection": "Cancel Selection",
+    "target_loan": "Loan",
+    "target_insurance": "Insurance",
+    "no_assign_targets_available": "You don't have any loans or insurances yet."
   },
   "transaction_summary": {
     "table_header": {
@@ -212,5 +220,38 @@
     "payment_date": "Date",
     "btn_add_payment": "+ Add",
     "linked_payment_tooltip": "Linked from a transaction"
+  },
+  "insurances": {
+    "active": "Active",
+    "items": "insurances",
+    "next_notice": "Next Notice Due",
+    "btn_new": "+ New",
+    "no_insurances_found": "No Insurances Found.",
+    "untitled": "Untitled Insurance",
+    "new_insurance": "New Insurance",
+    "edit_insurance": "Edit Insurance",
+    "name": "Name",
+    "provider": "Insurer / Provider",
+    "payment_value": "Payment Value",
+    "frequency": "Payment Frequency",
+    "frequencies": {
+      "monthly": "Monthly",
+      "quarterly": "Every 3 Months",
+      "semiannual": "Every 6 Months",
+      "annual": "Yearly"
+    },
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "notice_days": "Notice Period (days)",
+    "notice_by": "Notice By",
+    "notice_due": "Notice Due Now",
+    "expired": "Expired Insurances",
+    "payments_made": "Payments Made",
+    "payments_tip": "Log the actual payments you make for this insurance.",
+    "payments_after_save": "Save the insurance first to start logging payments made against it.",
+    "total_paid": "Total Paid",
+    "no_payments_recorded": "No Payments Recorded Yet.",
+    "payment_date": "Date",
+    "btn_add_payment": "+ Add"
   }
 }

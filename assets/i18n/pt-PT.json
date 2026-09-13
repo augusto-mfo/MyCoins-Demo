@@ -26,7 +26,9 @@
     "balance_history": "Histórico de Saldo",
     "transaction_summary": "Resumo de Movimentos",
     "show_balance": "Exibir Saldo",
-    "charts": "Gráficos"
+    "charts": "Gráficos",
+    "insurances": "Seguros",
+    "insurances_tip": "Acompanhe os seguros do carro e da casa, incluindo quando precisa de avisar antes de trocar."
   },
   "mobile_screen": {
     "home": "Início"
@@ -73,6 +75,10 @@
     "about": {
       "title": "Sobre",
       "description": "Saiba mais sobre esta aplicação, privacidade e opções para começar do zero ou carregar dados de exemplo."
+    },
+    "insurances": {
+      "title": "Seguros",
+      "description": "Faça a gestão dos seguros do carro e da casa e fique atento aos prazos de aviso prévio de renovação."
     }
   },
   "common": {
@@ -142,14 +148,16 @@
     "date_transaction": "Data do Movimento",
     "selected": "selecionados",
     "btn_clear_selection": "Limpar",
-    "btn_assign_loan": "Associar a Empréstimo",
-    "assign_modal_title": "Associar a Empréstimo",
-    "assign_modal_hint": "escolha a que empréstimo estes movimentos correspondem.",
-    "no_loans_available": "Ainda não tem nenhum empréstimo.",
+    "btn_assign_loan": "Associar a Empréstimo/Seguro",
+    "assign_modal_title": "Associar a Empréstimo/Seguro",
+    "assign_modal_hint": "escolha a que empréstimo ou seguro estes movimentos correspondem.",
     "linked_badge": "Associado",
     "linked_to": "Associado a",
     "btn_select": "Selecionar",
-    "btn_cancel_selection": "Cancelar Seleção"
+    "btn_cancel_selection": "Cancelar Seleção",
+    "target_loan": "Empréstimo",
+    "target_insurance": "Seguro",
+    "no_assign_targets_available": "Ainda não tem nenhum empréstimo ou seguro."
   },
   "transaction_summary": {
     "table_header": {
@@ -212,5 +220,38 @@
     "payment_date": "Data",
     "btn_add_payment": "+ Adicionar",
     "linked_payment_tooltip": "Associado a partir de um movimento"
+  },
+  "insurances": {
+    "active": "Ativos",
+    "items": "seguros",
+    "next_notice": "Próximo Aviso Prévio",
+    "btn_new": "+ Novo",
+    "no_insurances_found": "Nenhum Seguro Encontrado.",
+    "untitled": "Seguro Sem Nome",
+    "new_insurance": "Novo Seguro",
+    "edit_insurance": "Editar Seguro",
+    "name": "Nome",
+    "provider": "Seguradora",
+    "payment_value": "Valor do Pagamento",
+    "frequency": "Frequência de Pagamento",
+    "frequencies": {
+      "monthly": "Mensal",
+      "quarterly": "Trimestral",
+      "semiannual": "Semestral",
+      "annual": "Anual"
+    },
+    "start_date": "Data de Início",
+    "end_date": "Data de Fim",
+    "notice_days": "Período de Aviso Prévio (dias)",
+    "notice_by": "Avisar Até",
+    "notice_due": "Aviso Prévio Necessário",
+    "expired": "Seguros Expirados",
+    "payments_made": "Pagamentos Efetuados",
+    "payments_tip": "Registe os pagamentos que efetuou para este seguro.",
+    "payments_after_save": "Guarde o seguro primeiro para começar a registar os pagamentos.",
+    "total_paid": "Total Pago",
+    "no_payments_recorded": "Nenhum Pagamento Registado.",
+    "payment_date": "Data",
+    "btn_add_payment": "+ Adicionar"
   }
 }
