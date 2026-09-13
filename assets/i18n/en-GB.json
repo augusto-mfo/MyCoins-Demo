@@ -111,7 +111,8 @@
       "thu": "Thu",
       "fri": "Fri",
       "sat": "Sat"
-    }
+    },
+    "confirm": "Confirm"
   },
   "import_excel": {
     "btn_label": "Import Excel File",
@@ -138,7 +139,16 @@
     "currency": "Currency",
     "type": "Type",
     "date_value": "Value Date",
-    "date_transaction": "Transaction Date"
+    "date_transaction": "Transaction Date",
+    "selected": "selected",
+    "btn_clear_selection": "Clear",
+    "btn_assign_loan": "Assign to Loan",
+    "assign_modal_title": "Assign to Loan",
+    "assign_modal_hint": "choose which loan to log these as payments for.",
+    "no_loans_available": "You don't have any loans yet.",
+    "linked_badge": "Linked",
+    "linked_to": "Linked to",
+    "btn_select": "Select"
   },
   "transaction_summary": {
     "table_header": {
@@ -199,6 +209,7 @@
     "total_paid": "Total Paid",
     "no_payments_recorded": "No Payments Recorded Yet.",
     "payment_date": "Date",
-    "btn_add_payment": "+ Add"
+    "btn_add_payment": "+ Add",
+    "linked_payment_tooltip": "Linked from a transaction"
   }
 }

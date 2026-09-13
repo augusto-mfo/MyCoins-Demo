@@ -111,7 +111,8 @@
       "thu": "Qui",
       "fri": "Sex",
       "sat": "Sáb"
-    }
+    },
+    "confirm": "Confirmar"
   },
   "import_excel": {
     "btn_label": "Importar Arquivo Excel",
@@ -138,7 +139,16 @@
     "currency": "Moeda",
     "type": "Tipo",
     "date_value": "Data Valor",
-    "date_transaction": "Data do Movimento"
+    "date_transaction": "Data do Movimento",
+    "selected": "selecionados",
+    "btn_clear_selection": "Limpar",
+    "btn_assign_loan": "Associar a Empréstimo",
+    "assign_modal_title": "Associar a Empréstimo",
+    "assign_modal_hint": "escolha a qual empréstimo estes movimentos correspondem.",
+    "no_loans_available": "Você ainda não tem nenhum empréstimo.",
+    "linked_badge": "Associado",
+    "linked_to": "Associado a",
+    "btn_select": "Selecionar"
   },
   "transaction_summary": {
     "table_header": {
@@ -199,6 +209,7 @@
     "total_paid": "Total Pago",
     "no_payments_recorded": "Nenhum Pagamento Registrado Ainda.",
     "payment_date": "Data",
-    "btn_add_payment": "+ Adicionar"
+    "btn_add_payment": "+ Adicionar",
+    "linked_payment_tooltip": "Associado a partir de um movimento"
   }
 }
