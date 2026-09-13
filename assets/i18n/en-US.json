@@ -148,7 +148,8 @@
     "no_loans_available": "You don't have any loans yet.",
     "linked_badge": "Linked",
     "linked_to": "Linked to",
-    "btn_select": "Select"
+    "btn_select": "Select",
+    "btn_cancel_selection": "Cancel Selection"
   },
   "transaction_summary": {
     "table_header": {

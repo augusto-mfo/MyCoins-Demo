@@ -148,7 +148,8 @@
     "no_loans_available": "Ainda não tem nenhum empréstimo.",
     "linked_badge": "Associado",
     "linked_to": "Associado a",
-    "btn_select": "Selecionar"
+    "btn_select": "Selecionar",
+    "btn_cancel_selection": "Cancelar Seleção"
   },
   "transaction_summary": {
     "table_header": {
