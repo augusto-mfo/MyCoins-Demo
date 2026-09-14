@@ -253,5 +253,8 @@
     "no_payments_recorded": "Nenhum Pagamento Registado.",
     "payment_date": "Data",
     "btn_add_payment": "+ Adicionar"
+  },
+  "footer": {
+    "visits": "visitas"
   }
 }

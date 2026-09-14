@@ -253,5 +253,8 @@
     "no_payments_recorded": "No Payments Recorded Yet.",
     "payment_date": "Date",
     "btn_add_payment": "+ Add"
+  },
+  "footer": {
+    "visits": "visits"
   }
 }
