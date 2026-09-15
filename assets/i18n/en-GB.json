@@ -79,6 +79,18 @@
     "insurances": {
       "title": "Insurances",
       "description": "Manage your car and house insurances and stay ahead of renewal notice deadlines."
+    },
+    "account": {
+      "title": "Account",
+      "description": "Sign in to sync your data with the server."
+    },
+    "exportServer": {
+      "title": "Sync to Server",
+      "description": "Upload your current data to the server."
+    },
+    "importServer": {
+      "title": "Import from Server",
+      "description": "Replace your local data with what's stored on the server."
     }
   },
   "common": {
@@ -256,5 +268,30 @@
   },
   "footer": {
     "visits": "visits"
+  },
+  "login": {
+    "email_label": "Email",
+    "password_label": "Password",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "sign_out": "Sign Out",
+    "switch_to_sign_up": "Need an account? Sign up",
+    "switch_to_sign_in": "Already have an account? Sign in",
+    "signed_in_as": "Signed in as",
+    "missing_fields": "Enter your email and password.",
+    "confirm_email_sent": "Check your email to confirm your account."
+  },
+  "export_server": {
+    "description": "Upload your current data to the server, overwriting whatever was synced before.",
+    "btn_label": "Sync to Server",
+    "success": "Synced successfully.",
+    "error": "Failed to sync. Please try again."
+  },
+  "import_server": {
+    "description": "Replace your local data with what's stored on the server for your account.",
+    "btn_label": "Import from Server",
+    "success": "Imported successfully.",
+    "error": "Failed to import. Please try again.",
+    "not_found": "No synced data found for your account yet."
   }
 }

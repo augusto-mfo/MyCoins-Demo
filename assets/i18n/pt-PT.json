@@ -79,6 +79,18 @@
     "insurances": {
       "title": "Seguros",
       "description": "Faça a gestão dos seguros do carro e da casa e fique atento aos prazos de aviso prévio de renovação."
+    },
+    "account": {
+      "title": "Conta",
+      "description": "Inicie sessão para sincronizar os seus dados com o servidor."
+    },
+    "exportServer": {
+      "title": "Sincronizar com o Servidor",
+      "description": "Envie os seus dados atuais para o servidor."
+    },
+    "importServer": {
+      "title": "Importar do Servidor",
+      "description": "Substitua os seus dados locais pelos dados guardados no servidor."
     }
   },
   "common": {
@@ -256,5 +268,30 @@
   },
   "footer": {
     "visits": "visitas"
+  },
+  "login": {
+    "email_label": "Email",
+    "password_label": "Palavra-passe",
+    "sign_in": "Entrar",
+    "sign_up": "Criar Conta",
+    "sign_out": "Sair",
+    "switch_to_sign_up": "Não tem conta? Crie uma",
+    "switch_to_sign_in": "Já tem conta? Entre",
+    "signed_in_as": "Sessão iniciada como",
+    "missing_fields": "Introduza o seu email e palavra-passe.",
+    "confirm_email_sent": "Verifique o seu email para confirmar a conta."
+  },
+  "export_server": {
+    "description": "Envie os seus dados atuais para o servidor, substituindo o que estava sincronizado anteriormente.",
+    "btn_label": "Sincronizar com o Servidor",
+    "success": "Sincronizado com sucesso.",
+    "error": "Falha ao sincronizar. Tente novamente."
+  },
+  "import_server": {
+    "description": "Substitua os seus dados locais pelos dados guardados no servidor para a sua conta.",
+    "btn_label": "Importar do Servidor",
+    "success": "Importado com sucesso.",
+    "error": "Falha ao importar. Tente novamente.",
+    "not_found": "Ainda não existem dados sincronizados para a sua conta."
   }
 }
