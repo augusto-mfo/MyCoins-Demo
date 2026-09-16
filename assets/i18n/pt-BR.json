@@ -129,13 +129,22 @@
   "import_excel": {
     "btn_label": "Importar Arquivo Excel",
     "template_ask": "Precisa de um Modelo?",
-    "download_label": "Baixar Arquivo de Exemplo"
+    "download_label": "Baixar Arquivo de Exemplo",
+    "success": "{{count}} transações importadas.",
+    "no_rows": "Nenhuma linha válida foi encontrada nesse arquivo.",
+    "error": "Falha ao ler o arquivo Excel. Tente novamente."
   },
   "import_json": {
-    "btn_label": "Abrir Arquivo Json"
+    "btn_label": "Abrir Arquivo Json",
+    "success": "Dados importados com sucesso.",
+    "invalid_format": "Esse arquivo não parece ser um backup do MyCoins.",
+    "error": "Falha ao ler o arquivo. Tente novamente."
   },
   "export_json": {
-    "btn_label": "Salvar Arquivo Json"
+    "btn_label": "Salvar Arquivo Json",
+    "success": "Backup baixado.",
+    "no_data": "Ainda não há dados para exportar.",
+    "error": "Falha ao gerar o arquivo de backup."
   },
   "transactions": {
     "search_placeholder": "Pesquisar...",

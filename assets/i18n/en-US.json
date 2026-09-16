@@ -129,13 +129,22 @@
   "import_excel": {
     "btn_label": "Import Excel File",
     "template_ask": "Need a Template?",
-    "download_label": "Download Example File"
+    "download_label": "Download Example File",
+    "success": "{{count}} transactions imported.",
+    "no_rows": "No valid rows were found in that file.",
+    "error": "Failed to read the Excel file. Please try again."
   },
   "import_json": {
-    "btn_label": "Import Json File"
+    "btn_label": "Import Json File",
+    "success": "Data imported successfully.",
+    "invalid_format": "That file doesn't look like a MyCoins backup.",
+    "error": "Failed to read the file. Please try again."
   },
   "export_json": {
-    "btn_label": "Export Json File"
+    "btn_label": "Export Json File",
+    "success": "Backup downloaded.",
+    "no_data": "There is no data to export yet.",
+    "error": "Failed to generate the backup file."
   },
   "transactions": {
     "search_placeholder": "Search...",
