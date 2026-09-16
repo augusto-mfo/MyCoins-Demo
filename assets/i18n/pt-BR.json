@@ -1,14 +1,12 @@
 {
   "header": {
-    "title": "MyCoins Demo",
+    "title": "MyCoins",
     "home_shortcut": "Ir para o Início"
   },
   "about": {
-    "title": "MyCoins Demo",
-    "badge": "Showcase ao Vivo",
+    "title": "MyCoins",
+    "badge": "Demonstração",
     "description": "Esta aplicação é um dashboard financeiro centralizado, projetado para gerenciar múltiplas contas bancárias e despesas pessoais ou familiares. Originalmente concebido como uma planilha complexa, evoluiu para este PWA para superar as limitações de manutenção do Excel com fórmulas e gráficos vindas de múltiplas referências dinâmicas. Além de sua utilidade, este projeto serve como um showcase técnico hospedado na nuvem para testar padrões arquiteturais e atualizações de frameworks.",
-    "privacy_title": "Privacidade",
-    "privacy_text": "Nenhum dado é coletado ou salvo. Esta aplicação funciona inteiramente no lado do cliente para uma experiência segura e privada.",
     "btn_new": "Começar Novo",
     "btn_sample": "Começar com Dados de Exemplo",
     "contact": "Contatar Desenvolvedor",
@@ -270,7 +268,8 @@
     "btn_add_payment": "+ Adicionar"
   },
   "footer": {
-    "visits": "visitas"
+    "visits": "visitas",
+    "syncing": "Sincronizando com o servidor..."
   },
   "login": {
     "sign_out": "Sair",
