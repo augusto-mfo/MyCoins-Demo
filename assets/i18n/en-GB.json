@@ -66,11 +66,11 @@
     },
     "import": {
       "title": "Import",
-      "description": "Load transactions from a JSON backup or an Excel spreadsheet."
+      "description": "Load transactions from a JSON backup, an Excel spreadsheet, or your synced server data."
     },
     "export": {
       "title": "Export",
-      "description": "Download a JSON backup of your transactions and budget."
+      "description": "Download a JSON backup of your transactions and budget, or sync them to the server."
     },
     "about": {
       "title": "About",
@@ -83,14 +83,6 @@
     "account": {
       "title": "Account",
       "description": "Sign in to sync your data with the server."
-    },
-    "exportServer": {
-      "title": "Sync to Server",
-      "description": "Upload your current data to the server."
-    },
-    "importServer": {
-      "title": "Import from Server",
-      "description": "Replace your local data with what's stored on the server."
     }
   },
   "common": {
@@ -130,7 +122,9 @@
       "fri": "Fri",
       "sat": "Sat"
     },
-    "confirm": "Confirm"
+    "confirm": "Confirm",
+    "this_device": "This Device",
+    "server": "Server"
   },
   "import_excel": {
     "btn_label": "Import Excel File",
@@ -270,28 +264,34 @@
     "visits": "visits"
   },
   "login": {
+    "sign_out": "Sign Out",
+    "signed_in_as": "Signed in as",
+    "choose_provider": "Sign in to sync your data across devices.",
+    "continue_with_google": "Continue with Google",
+    "or_divider": "or continue with email",
     "email_label": "Email",
     "password_label": "Password",
     "sign_in": "Sign In",
-    "sign_up": "Sign Up",
-    "sign_out": "Sign Out",
+    "sign_up": "Create Account",
     "switch_to_sign_up": "Need an account? Sign up",
     "switch_to_sign_in": "Already have an account? Sign in",
-    "signed_in_as": "Signed in as",
     "missing_fields": "Enter your email and password.",
-    "confirm_email_sent": "Check your email to confirm your account."
+    "confirm_email_sent": "Check your email to confirm your account.",
+    "confirm_email_ok": "OK"
   },
   "export_server": {
     "description": "Upload your current data to the server, overwriting whatever was synced before.",
     "btn_label": "Sync to Server",
     "success": "Synced successfully.",
-    "error": "Failed to sync. Please try again."
+    "error": "Failed to sync. Please try again.",
+    "sign_in_required": "Sign in to also sync your data to the server."
   },
   "import_server": {
     "description": "Replace your local data with what's stored on the server for your account.",
     "btn_label": "Import from Server",
     "success": "Imported successfully.",
     "error": "Failed to import. Please try again.",
-    "not_found": "No synced data found for your account yet."
+    "not_found": "No synced data found for your account yet.",
+    "sign_in_required": "Sign in to also import your synced data from the server."
   }
 }

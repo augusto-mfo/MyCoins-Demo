@@ -66,11 +66,11 @@
     },
     "import": {
       "title": "Abrir",
-      "description": "Carregue movimentos a partir de um backup JSON ou de uma folha de Excel."
+      "description": "Carregue transações de uma cópia de segurança JSON, de uma folha de Excel, ou dos seus dados sincronizados no servidor."
     },
     "export": {
       "title": "Guardar",
-      "description": "Descarregue um backup JSON dos seus movimentos e orçamento."
+      "description": "Descarregue uma cópia de segurança JSON das suas transações e orçamento, ou sincronize-os com o servidor."
     },
     "about": {
       "title": "Sobre",
@@ -83,14 +83,6 @@
     "account": {
       "title": "Conta",
       "description": "Inicie sessão para sincronizar os seus dados com o servidor."
-    },
-    "exportServer": {
-      "title": "Sincronizar com o Servidor",
-      "description": "Envie os seus dados atuais para o servidor."
-    },
-    "importServer": {
-      "title": "Importar do Servidor",
-      "description": "Substitua os seus dados locais pelos dados guardados no servidor."
     }
   },
   "common": {
@@ -130,7 +122,9 @@
       "fri": "Sex",
       "sat": "Sáb"
     },
-    "confirm": "Confirmar"
+    "confirm": "Confirmar",
+    "this_device": "Este Dispositivo",
+    "server": "Servidor"
   },
   "import_excel": {
     "btn_label": "Importar Ficheiro Excel",
@@ -270,28 +264,34 @@
     "visits": "visitas"
   },
   "login": {
+    "sign_out": "Sair",
+    "signed_in_as": "Sessão iniciada como",
+    "choose_provider": "Inicie sessão para sincronizar os seus dados entre dispositivos.",
+    "continue_with_google": "Continuar com a Google",
+    "or_divider": "ou continue com o email",
     "email_label": "Email",
     "password_label": "Palavra-passe",
-    "sign_in": "Entrar",
+    "sign_in": "Iniciar Sessão",
     "sign_up": "Criar Conta",
-    "sign_out": "Sair",
     "switch_to_sign_up": "Não tem conta? Crie uma",
-    "switch_to_sign_in": "Já tem conta? Entre",
-    "signed_in_as": "Sessão iniciada como",
+    "switch_to_sign_in": "Já tem conta? Inicie sessão",
     "missing_fields": "Introduza o seu email e palavra-passe.",
-    "confirm_email_sent": "Verifique o seu email para confirmar a conta."
+    "confirm_email_sent": "Verifique o seu email para confirmar a conta.",
+    "confirm_email_ok": "OK"
   },
   "export_server": {
     "description": "Envie os seus dados atuais para o servidor, substituindo o que estava sincronizado anteriormente.",
     "btn_label": "Sincronizar com o Servidor",
     "success": "Sincronizado com sucesso.",
-    "error": "Falha ao sincronizar. Tente novamente."
+    "error": "Falha ao sincronizar. Tente novamente.",
+    "sign_in_required": "Inicie sessão para também sincronizar os seus dados com o servidor."
   },
   "import_server": {
     "description": "Substitua os seus dados locais pelos dados guardados no servidor para a sua conta.",
     "btn_label": "Importar do Servidor",
     "success": "Importado com sucesso.",
     "error": "Falha ao importar. Tente novamente.",
-    "not_found": "Ainda não existem dados sincronizados para a sua conta."
+    "not_found": "Ainda não existem dados sincronizados para a sua conta.",
+    "sign_in_required": "Inicie sessão para também importar os seus dados sincronizados do servidor."
   }
 }
