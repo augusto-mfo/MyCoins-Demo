@@ -1,7 +1,7 @@
 {
   "id": "/MyCoins-Demo/",
   "start_url": "/MyCoins-Demo/",
-  "name": "MyCoins Demo",
+  "name": "MyCoins",
   "short_name": "MyCoins",
   "display": "standalone",
   "background_color": "#ffffff",
