@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1789669977862,
+  "timestamp": 1789684153320,
   "index": "/MyCoins-Demo/index.html",
   "assetGroups": [
     {
@@ -29,6 +29,7 @@
         "/MyCoins-Demo/icons/icon-192x192.png",
         "/MyCoins-Demo/icons/screen1.png",
         "/MyCoins-Demo/icons/screen2.png",
+        "/MyCoins-Demo/images/background.jpg",
         "/MyCoins-Demo/images/logo.png"
       ],
       "patterns": []
@@ -40,10 +41,11 @@
     "/MyCoins-Demo/icons/icon-192x192.png": "efd05c35576ec2afdd36034f5dc084863aca143a",
     "/MyCoins-Demo/icons/screen1.png": "7936c01ffca542bce17c6b556d98a31cc0fe0440",
     "/MyCoins-Demo/icons/screen2.png": "a3454bd7f12cd0174ba54c1c617baee68c2dc58b",
+    "/MyCoins-Demo/images/background.jpg": "b6bd29faac30719a02465961dc09216e70356281",
     "/MyCoins-Demo/images/logo.png": "7808590830db71ccd9a11ddb3f9be4ca35c7072b",
-    "/MyCoins-Demo/index.html": "c24d72640b92694017213ff27d44a40b5da66827",
-    "/MyCoins-Demo/main.js": "5ea7060d9bb47cc5916fd4e2d6bf6441c67ea452",
-    "/MyCoins-Demo/styles.css": "edb569072a32cb37673c8376edbc318bdad0b16e"
+    "/MyCoins-Demo/index.html": "b4c44d214a0aacf41a85a701d1284edc46b078ae",
+    "/MyCoins-Demo/main.js": "46fda2c66eb2d74e86281158c21df4ed9701af0f",
+    "/MyCoins-Demo/styles.css": "9bbeb21b040dcb76eace98036193c4fa40f8b975"
   },
   "navigationUrls": [
     {
